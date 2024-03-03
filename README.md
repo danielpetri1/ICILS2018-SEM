@@ -14,18 +14,18 @@ Below are the instructions to replicate results from the paper *"What do teacher
 7. Select the following variables: 
    
 ##### School file
-`P_EXPLRN`, `P_EXPTCH`, `P_VWICT`.
+Social Influence: `P_EXPLRN`, `P_EXPTCH`, `P_VWICT`.
 
 ##### Teacher file
-`T_ICTEFF, T_COLICT`
+Effort Expectancy: `T_ICTEFF, T_COLICT`
 
-`T_VWPOS, T_VWNEG`
+Performance Expectancy: `T_VWPOS, T_VWNEG`
    
-`T_RESRC, T_PROFREC, T_PROFSTR`
+Facilitating conditions: `T_RESRC, T_PROFREC, T_PROFSTR`
    
-`T_CODEMP, T_ICTEMP`
+Behavioral Intention: `T_CODEMP, T_ICTEMP`
    
-`T_USEUTIL, T_CLASACT, T_USETOOL`
+Use Behavior: `T_USEUTIL, T_CLASACT, T_USETOOL`
 
 81 ID and sampling variables will automatically be selected.
 
