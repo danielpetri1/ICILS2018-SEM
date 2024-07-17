@@ -1,4 +1,4 @@
-Below are the instructions to replicate results from the paper *"What do teachers need to foster their students’ ICT skills? Deriving a structural equation model using the ICILS dataset"*.
+Below are the instructions to replicate results from the paper *"Exploring Influences on ICT Adoption in German Schools: A UTAUT-Based Structural Equation Model"*.
 
 #### Required downloads
 1. Download and extract the [ICILS 2018 SPSS Data](https://doi.org/10.58150/ICILS_2018_data)
