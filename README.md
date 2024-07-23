@@ -1,4 +1,4 @@
-Below are the instructions to replicate results from the paper *"Exploring Influences on ICT Adoption in German Schools: A UTAUT-Based Structural Equation Model"*.
+Below are the instructions to replicate results from the paper *["Exploring Influences on ICT Adoption in German Schools: A UTAUT-Based Structural Equation Model"](https://jl4d.org/index.php/ejl4d/article/view/1116)*.
 
 #### Required downloads
 1. Download and extract the [ICILS 2018 SPSS Data](https://doi.org/10.58150/ICILS_2018_data)
@@ -36,3 +36,22 @@ Use Behavior: `T_USEUTIL, T_CLASACT, T_USETOOL`
 
 #### SEM Estimation
 Simply drag and drop the desired `.do` file into Stata's command window to automatically fit the model.
+
+#### Citation
+
+Please cite as:
+
+```
+@Article{Petri_Bewersdorff_Nerdel_2024,
+  author  = {Petri Rocha, Daniel and Bewersdorff, Arne and Nerdel, Claudia},
+  journal = {Journal of Learning for Development},
+  title   = {Exploring Influences on ICT Adoption in German Schools: A UTAUT-Based Structural Equation Model},
+  year    = {2024},
+  month   = {Jul},
+  number  = {2},
+  pages   = {311–322},
+  volume  = {11},
+  doi     = {10.56059/jl4d.v11i2.1116},
+  url     = {https://jl4d.org/index.php/ejl4d/article/view/1116},
+}
+```
